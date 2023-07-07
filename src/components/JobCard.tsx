@@ -159,7 +159,7 @@ class JobCard extends React.Component<JobCardProps, State> {
                 style={{
                   position: "relative",
                   top: "40px",
-                  marginLeft: "100px",
+                  marginLeft: "80px",
                 }}
               >
                 <p>Hourly Price</p>
@@ -172,7 +172,8 @@ class JobCard extends React.Component<JobCardProps, State> {
                   style={{
                     background: "#0096FF",
                     color: "white",
-                    width: "145px",
+                    width: "130px",
+                    marginLeft: "25px",
                   }}
                 >
                   Hire
